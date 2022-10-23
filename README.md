@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pandachad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- My name is pandachad!
+- I use a Varmilo VA8MM Panda Keyboard w/ EC Ivy V2 Switches 🐼 
+- I am interested in programming 
+- I am currently learning Rust from the official book 🦀
+
 
 <!---
 pandachad/pandachad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
